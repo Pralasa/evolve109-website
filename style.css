@@ -1,0 +1,32 @@
+
+
+body{
+    font-family: sora;
+}
+
+.navbar navbar-light{
+    background: black;
+}
+
+btn btn-primary{
+    background:black;
+}
+
+
+/*.Welcome{
+    width: 1600px;
+    height: 750px;
+    background-image: url(BG-1.png);
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}*/
+
+
+.Welcome img{
+    align-items: center;
+    justify-content: center}
+
+h1{
+    
+}
